@@ -5,7 +5,7 @@
 layout: home
 ---
 
-<div style="max-width: 80%; margin: auto;">
+<div style="max-width: 150%; margin: auto;">
     <h1>Behind the Screens: Decoding Patterns in Movie Popularity and Appeal</h1>
     <p>Authors: Manos Loukaidis and Nico Sherpa</p>
     <iframe src="networkGraph.html" width="100%" height="600px"></iframe>
