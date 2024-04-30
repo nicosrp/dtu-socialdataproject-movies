@@ -49,4 +49,7 @@ However, what we couldn't see in the first plot is, that the relation between th
 
 Having data visualized in an interactive manner can show us quite intuitively where specific patterns occur, that are not yet discovered when only plotting time series bar charts or similar. We could learn, that there are certain times and places, where DUI incidents accumulate stronger (weekends, nights, main city area). With differing time and location variables, the incident rates are changing. However, we also learned about the limitations of visualizing the San Francisco crime data, as we can not exactly explain, why certain patterns occur (like the low Richmond 13, 16 and 19 o'clock incident prevalence). But pointing them out is the first step of finding solutions to systematic problems in patrolling or when trying to find the optimal preventive measures for the future.
 
+<iframe src="/assets/network_graph_of_movie_genres.html" width="100%" height="600px"></iframe>
+
+
 The contribution split for this assignment can be found on the [About](https://nicosrp.github.io/dtu-socialdataproject-movies/about/) page.
