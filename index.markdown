@@ -9,6 +9,6 @@ layout: home
 
 Authors: Manos Loukaidis and Nico Sherpa
 
-<iframe src="networkGraph.html" width="150%" height="600px" style="border:none; margin-left: -30px;"></iframe>
+<iframe src="networkGraph.html" width="100%" height="600px" style="border:none;"></iframe>
 
 The contribution split for this assignment can be found on the [About](https://nicosrp.github.io/dtu-socialdataproject-movies/about/) page.
