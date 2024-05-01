@@ -5,7 +5,7 @@
 layout: home
 ---
 
-<h1>Behind the Screens: Decoding Patterns in Movie Popularity and Appeal</h1>
+<h1>Behind the Screens🎥: Decoding Patterns in Movie Popularity and Appeal</h1>
 
 Authors: Manos Loukaidis and Nico Sherpa
 
