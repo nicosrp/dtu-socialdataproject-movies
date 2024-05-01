@@ -18,7 +18,7 @@ Our chosen dataset, the [TMDB Movies Dataset](https://www.kaggle.com/datasets/as
 
 
 
-<iframe src="time_series.html" width="100%" height="1000px" style="border:none;"></iframe>
+<iframe src="time_series.html" width="100%" height="600" style="border:none;"></iframe>
 
 
 The contribution split for this assignment can be found on the [About](https://nicosrp.github.io/dtu-socialdataproject-movies/about/) page.
