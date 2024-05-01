@@ -9,7 +9,7 @@ layout: home
 
 Authors: Manos Loukaidis and Nico Sherpa
 
-3, 2, 1... Action! Grab yourself some popcorn and enjoy the movie. The smell of popcorn, 2 liter coca cola cups, and 165 minutes pure entertainment. We all love movies, don't we? What do we really like, is it a specific genre, or the multi-million dollar CGI that has been used? With this project, how we perceive movies given a set of underlying assumption, and subsequently want to learn something about ourselves as humans. Let's dive right into it.
+3, 2, 1... Action! Grab yourself some popcorn and enjoy the movie. The smell of cheese nachos, 2 liter coca cola cups, and 165 minutes pure entertainment. We all love movies, don't we? What do we really like, is it a specific genre, or the multi-million dollar CGI that has been used? With this project, how we perceive movies given a set of underlying assumption, and subsequently want to learn something about ourselves as humans. Let's dive right into it.
 
 <iframe src="genreNetwork.html" width="100%" height="400px" style="border:none;"></iframe>
 
