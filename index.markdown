@@ -22,7 +22,7 @@ The Drama genre has been assigned the most with 214.583k assignments, followed b
 As recent events in the world confirm, humans apparently like war, maybe as they think it might be necessary, maybe because some find it entertaining. Our graph, however, seems to confirm the latter. With an average vote of 7.29 out of 10 is the War genre the highest rated amongst all genres, considering the weighted rating only.
 
 
-<iframe src="worldMap.html" width="100%" height="600" style="border:none;"></iframe>
+<iframe src="worldMap.html" width="100%" height="500" style="border:none;"></iframe>
 
 
 <iframe src="tSeries.html" width="100%" height="600" style="border:none;"></iframe>
