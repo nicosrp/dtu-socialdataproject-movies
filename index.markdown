@@ -35,7 +35,7 @@ TEXT TEXT TEXT
 TEXT TEXT TEXT
 TEXT TEXT TEXT
 
-<iframe src="average_runtime_over_decades.html" width="100%" height="550" style="border:none;"></iframe>
+<iframe src="average_runtime_over_decadesNew.html" width="100%" height="550" style="border:none;"></iframe>
 
 TEXT TEXT TEXT
 TEXT TEXT TEXT
