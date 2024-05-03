@@ -21,11 +21,23 @@ The Drama genre has been assigned the most with 214.583k assignments, followed b
 
 As recent events in the world confirm, humans apparently like war, maybe as they think it might be necessary, maybe because some find it entertaining. Our graph, however, seems to confirm the latter. With an average vote of 7.29 out of 10 is the War genre the highest rated amongst all genres, considering the weighted rating only.
 
-
-<iframe src="worldMap.html" width="100%" height="550" style="border:none;"></iframe>
+TEXT TEXT TEXT
+TEXT TEXT TEXT
 
 
 <iframe src="tSeries.html" width="100%" height="600" style="border:none;"></iframe>
 
+TEXT TEXT TEXT
+TEXT TEXT TEXT
+
+<iframe src="worldMapNew.html" width="100%" height="550" style="border:none;"></iframe>
+
+TEXT TEXT TEXT
+TEXT TEXT TEXT
+
+<iframe src="average_runtime_over_decades.html" width="100%" height="550" style="border:none;"></iframe>
+
+TEXT TEXT TEXT
+TEXT TEXT TEXT
 
 The contribution split for this assignment can be found on the [About](https://nicosrp.github.io/dtu-socialdataproject-movies/about/) page.
