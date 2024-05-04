@@ -17,20 +17,19 @@ Our chosen dataset, the [TMDB Movies Dataset](https://www.kaggle.com/datasets/as
 
 <iframe src="genreNumberRatingBarplot.html" width="100%" height="600" style="border:none;"></iframe>
 
-The Drama genre has been assigned the most with 214.583k assignments, followed by the Documentary (154.462k) and Comedy(132.107k) genre while only 8.560k movies have been assigned to the Western genre. What is interesting to see is that there is a very clear difference between the average and weighted average ratings for each genre. However, it makes sense if we assume that better movies are more popular and thus more often voted for in our dataset, consequently having a higher influence on the weighted average rating.
+The Drama genre has been assigned the most with 214.583k assignments, followed by the Documentary (154.462k) and Comedy(132.107k) genre while only 8.560k movies have been assigned to the Western genre. As we can also see in the Network Graph from the beginning, the Drama genre has relatively many strong ties to other genres like Comedy or Thriller, and due to the fact that many movies have at least a bit 'drama' in their plot, this high occurance is not surprising. What is interesting to see is that there is a very clear difference between the average and weighted average ratings for each genre. However, it makes sense if we assume that better movies are more popular and thus more often voted for in our dataset, consequently having a higher influence on the weighted average rating.
 
-As recent events in the world confirm, humans apparently like war, maybe as they think it might be necessary, maybe because some find it entertaining. Our graph, however, seems to confirm the latter. With an average vote of 7.29 out of 10 is the War genre the highest rated amongst all genres, considering the weighted rating only.
+As recent events in the world confirm, humans apparently like war, maybe as they think it might be necessary, maybe because some find it entertaining. Our graph, however, seems to confirm the latter. With an average vote of 7.29 out of 10, the War genre is the highest rated amongst all genres, considering the weighted rating only. The least rated one is the horror genre, which is not surprising if we think that a lot of people consider horror movies to be 'too scary', and the ones that like them might be hard to scare and base their rating on how much they got scared and not on how good the storyline is.
 
-TEXT TEXT TEXT
-TEXT TEXT TEXT
+As a take away we can say, that humans love drama, otherwise drama would not be that important for movies. Humans, however, also like what war movies tickles in them, which is brutality, proudness, thrill of battle, but also to be able to distinguish between good and also to be secure in a comfortable home at the same time. We get a grasp of the excitement of war while not having to bear the risk to die. It might be interesting to see, in which other fields than movies we can observe these essential human traits. This might give us tremendous insights into what we like, what we want to gain out of something, and how humans can get influenced.
 
+FIRST BUILD IN MOVIES OCCURRENCE OVER TIME???
 
 <iframe src="tSeries.html" width="100%" height="600" style="border:none;"></iframe>
 
-TEXT TEXT TEXT
-TEXT TEXT TEXT
+In this graph, showing genres and their ratings, we can see the difference between the animation and the horror genre over time (other genres are selectable by clicking on the legend). We can observe, that especially before 1940 the horror genre tends to be higer rated than animation movies. This trend shifts quite notably in the ealry 1980's, where the animation clearly outrates the horror genre. The [US animation explosion](https://en.wikipedia.org/wiki/History_of_animation#1980s) and deregulation of childrens cartoons by the Reagan administration could have had an influence on that, and might have been the starting shot for a spread and popularity increase in the animation genre. This might give us an idea, that the way how a society behaves is often determined by the frameworks in which a society lives. Would the animation boom have happened if there has not been this deregulation, would war movies be less interesting for us if the world would not be scared by two big world wars and a multitude of previous and past wars that have happened or ar still taking place. In which other ways did those occurances influence our society. Are we missing out on a huge boom that could have happened right now but the specific frameworks are not given? Those frameworks are also determined by different cultures. In the following world map, we can see how some specific measures in the movie industry differ around the world.
 
-<iframe src="worldMapNew.html" width="100%" height="550" style="border:none;"></iframe>
+<iframe src="worldMap.html" width="100%" height="550" style="border:none;"></iframe>
 
 TEXT TEXT TEXT
 TEXT TEXT TEXT
