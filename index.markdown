@@ -47,33 +47,5 @@ In this graph, showing genres and their ratings, we can see the difference betwe
 <iframe src="time_series_revenue.html" width="100%" height="600" style="border:none;"></iframe>
 The Drama and Documentary genres continue to be the most popular on the silver screen, despite the constantly changing nature of the film industry. According to the graph showing the Number of movies per Genre and year, the Drama and Documentary genres are the most popular, with around 10,000 films made annually in the latter part of the 2010s alone. The Action and Adventure genres, on the other hand, which are recognized for their heart-pounding excitement and breathtaking visuals, only account for a small portion of the total production at roughly 1,000 films each. This striking contrast highlights the complex forces at work in the film industry, where producing Action/Adventure films calls for an enormous amount of money, time, and effort. In contrast to its Drama counterparts, which thrive on personal character relationships and subtle storytelling.
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Visualizations Side by Side</title>
-<style>
-    /* Set the display to flex to align items in a row */
-    .container {
-        display: flex;
-        justify-content: space-evenly; /* Distributes space evenly between the iframes */
-        align-items: stretch; /* Stretches the items to fill the container */
-    }
-    iframe {
-        width: 50%; /* Each iframe takes half the width of the container */
-        height: 600px; /* Fixed height for each iframe */
-        border: none; /* Removes border around iframes */
-    }
-</style>
-</head>
-<body>
-<div class="container">
-    <iframe src="time_series_budget.html"></iframe>
-    <iframe src="time_series_revenue.html"></iframe>
-</div>
-</body>
-</html>
-
 
 The contribution split for this assignment can be found on the [About](https://nicosrp.github.io/dtu-socialdataproject-movies/about/) page.
