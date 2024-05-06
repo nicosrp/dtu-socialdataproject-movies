@@ -45,7 +45,35 @@ The following three graphs show a closer look into what is happening in the diff
 In this graph, showing genres and their ratings, we can see the difference between the animation and the horror genre over time (other genres are selectable by clicking on the legend). We can observe, that especially before 1940 the horror genre tends to be higer rated than animation movies. This trend shifts quite notably in the ealry 1980's, where the animation clearly outrates the horror genre. The [US animation explosion](https://en.wikipedia.org/wiki/History_of_animation#1980s) and deregulation of childrens cartoons by the Reagan administration could have had an influence on that, and might have been the starting shot for a spread and popularity increase in the animation genre. This might give us an idea, that the way how a society behaves is often determined by the frameworks in which a society lives. Would the animation boom have happened if there has not been this deregulation, would war movies be less interesting for us if the world would not be scared by two big world wars and a multitude of previous and past wars that have happened or ar still taking place. In which other ways did those occurances influence our society. Are we missing out on a huge boom that could have happened right now but the specific frameworks are not given? Those frameworks are also determined by different cultures. 
 <iframe src="time_series_budget.html" width="100%" height="600" style="border:none;"></iframe>
 <iframe src="time_series_revenue.html" width="100%" height="600" style="border:none;"></iframe>
+The Drama and Documentary genres continue to be the most popular on the silver screen, despite the constantly changing nature of the film industry. According to the graph showing the Number of movies per Genre and year, the Drama and Documentary genres are the most popular, with around 10,000 films made annually in the latter part of the 2010s alone. The Action and Adventure genres, on the other hand, which are recognized for their heart-pounding excitement and breathtaking visuals, only account for a small portion of the total production at roughly 1,000 films each. This striking contrast highlights the complex forces at work in the film industry, where producing Action/Adventure films calls for an enormous amount of money, time, and effort. In contrast to its Drama counterparts, which thrive on personal character relationships and subtle storytelling.
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Visualizations Side by Side</title>
+<style>
+    /* Set the display to flex to align items in a row */
+    .container {
+        display: flex;
+        justify-content: space-evenly; /* Distributes space evenly between the iframes */
+        align-items: stretch; /* Stretches the items to fill the container */
+    }
+    iframe {
+        width: 50%; /* Each iframe takes half the width of the container */
+        height: 600px; /* Fixed height for each iframe */
+        border: none; /* Removes border around iframes */
+    }
+</style>
+</head>
+<body>
+<div class="container">
+    <iframe src="time_series_budget.html"></iframe>
+    <iframe src="time_series_revenue.html"></iframe>
+</div>
+</body>
+</html>
 
 
 The contribution split for this assignment can be found on the [About](https://nicosrp.github.io/dtu-socialdataproject-movies/about/) page.
