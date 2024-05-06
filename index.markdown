@@ -23,21 +23,29 @@ As recent events in the world confirm, humans apparently like war, maybe as they
 
 As a take away we can say, that humans love drama, otherwise drama would not be that important for movies. Humans, however, also like what war movies tickles in them, which is brutality, proudness, thrill of battle, but also to be able to distinguish between good and also to be secure in a comfortable home at the same time. We get a grasp of the excitement of war while not having to bear the risk to die. It might be interesting to see, in which other fields than movies we can observe these essential human traits. This might give us tremendous insights into what we like, what we want to gain out of something, and how humans can get influenced.
 
-FIRST BUILD IN MOVIES OCCURRENCE OVER TIME???
+TRANSITION TEXT ABOUT NEXT GRAPH
 
-<iframe src="tSeries.html" width="100%" height="600" style="border:none;"></iframe>
+<iframe src="time_series_movie_count.html" width="100%" height="600" style="border:none;"></iframe>
 
-In this graph, showing genres and their ratings, we can see the difference between the animation and the horror genre over time (other genres are selectable by clicking on the legend). We can observe, that especially before 1940 the horror genre tends to be higer rated than animation movies. This trend shifts quite notably in the ealry 1980's, where the animation clearly outrates the horror genre. The [US animation explosion](https://en.wikipedia.org/wiki/History_of_animation#1980s) and deregulation of childrens cartoons by the Reagan administration could have had an influence on that, and might have been the starting shot for a spread and popularity increase in the animation genre. This might give us an idea, that the way how a society behaves is often determined by the frameworks in which a society lives. Would the animation boom have happened if there has not been this deregulation, would war movies be less interesting for us if the world would not be scared by two big world wars and a multitude of previous and past wars that have happened or ar still taking place. In which other ways did those occurances influence our society. Are we missing out on a huge boom that could have happened right now but the specific frameworks are not given? Those frameworks are also determined by different cultures. 
-
-In the following world map, we can see how some specific measures in the movie industry differ around the world.
+Besides looking only at genres, it might be interesting to see the geographical differences in the world of movies. In the following world map, we can see how some specific measures in the movie industry differ around the world.
 
 <iframe src="worldMap.html" width="100%" height="550" style="border:none;"></iframe>
 
 Considering the amount of total movies, a country has produced, we can see that the USA are clearly the biggest player, with more than four times the amount of total movies than France, the second place in this ranking. We have to take into account here, that The Movie Database TMBD is a company from Calgary, Alberta (Canada) that has easier access to western (not the genre) movies, and e.g. movies form the former Soviet Union, China or India can only be grasped to a lower extent. Nonetheless, the US american dominancy can not be refused in this setting. Furthermore, also have to take into account that the countries here are the production countries of a movie, so the movie itself can have its origins in one country, but also produce in another one.
 
-<iframe src="average_runtime_over_decadesNew.html" width="100%" height="550" style="border:none;"></iframe>
+<iframe src="average_runtime_over_decades.html" width="100%" height="550" style="border:none;"></iframe>
 
 TEXT TEXT TEXT
 TEXT TEXT TEXT
+
+
+The following three graphs show a closer look into what is happening in the different genres over time.
+
+<iframe src="tSeries.html" width="100%" height="600" style="border:none;"></iframe>
+In this graph, showing genres and their ratings, we can see the difference between the animation and the horror genre over time (other genres are selectable by clicking on the legend). We can observe, that especially before 1940 the horror genre tends to be higer rated than animation movies. This trend shifts quite notably in the ealry 1980's, where the animation clearly outrates the horror genre. The [US animation explosion](https://en.wikipedia.org/wiki/History_of_animation#1980s) and deregulation of childrens cartoons by the Reagan administration could have had an influence on that, and might have been the starting shot for a spread and popularity increase in the animation genre. This might give us an idea, that the way how a society behaves is often determined by the frameworks in which a society lives. Would the animation boom have happened if there has not been this deregulation, would war movies be less interesting for us if the world would not be scared by two big world wars and a multitude of previous and past wars that have happened or ar still taking place. In which other ways did those occurances influence our society. Are we missing out on a huge boom that could have happened right now but the specific frameworks are not given? Those frameworks are also determined by different cultures. 
+<iframe src="time_series_budget.html" width="100%" height="600" style="border:none;"></iframe>
+<iframe src="time_series_revenue.html" width="100%" height="600" style="border:none;"></iframe>
+
+
 
 The contribution split for this assignment can be found on the [About](https://nicosrp.github.io/dtu-socialdataproject-movies/about/) page.
