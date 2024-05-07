@@ -6,7 +6,7 @@ permalink: /about/
 
 This [story](https://nicosrp.github.io/dtu-socialdataproject-movies) has been created during the Social Data Analysis and Viszualization Course (Spring 24).
 
-The Explainer Notebook can be found under this link: https://github.com/nicosrp/dtu-socialdataproject-movies/blob/main/explainer_notebook.ipynb
+The Explainer Notebook can be found under [here](https://github.com/nicosrp/dtu-socialdataproject-movies/blob/main/explainer_notebook.ipynb).
 
 The students, that worked on this project are:
 
