@@ -6,6 +6,8 @@ permalink: /about/
 
 This [story](https://nicosrp.github.io/dtu-socialdataproject-movies) has been created during the Social Data Analysis and Viszualization Course (Spring 24).
 
+The Explainer Notebook can be found under this link: https://github.com/nicosrp/dtu-socialdataproject-movies/blob/main/explainer_notebook.ipynb
+
 The students, that worked on this project are:
 
 **Manos Loukaidis**\
@@ -22,7 +24,6 @@ Both group members worked on all tasks together and helped each other on all tas
 
 Responsibility of Manos:
 * Manos was mostly responsible for the display and data selection for some figures in order to build a narrative and persistence to the data being shown.
-
 
 Responsibility of Nico:
 * Nico was mostly responsible for the most part of the code and specific visualization choices along with Introductory parts of the Article.

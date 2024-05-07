@@ -56,4 +56,4 @@ In the beginning, we talked about why the "War" genre could be rated the best ge
 
 The basis for why the Action/Adventure genre is the "golden goose" in the movie industry is based on several factors, for which we could investigate some in our previous analysis. To conclude this work, we find the reason for the evolving of a "golden goose" so interesting, as we can transfer those realizations to other states in our society. The most successfully entertainment, behaviour, social characteristic, is always the one that gives us low-risk excitement and entertainment (comparison to war genre), while covering a large audience and being widely accepted (Action genre closely connected to others), that sells the best (Actions/Adventures financial data over time).
 
-The contribution split for this assignment can be found on the [About](https://nicosrp.github.io/dtu-socialdataproject-movies/about/) page.
+The contribution split and the link to the explainer_notebook (ipynb file) for this assignment can be found on the [About](https://nicosrp.github.io/dtu-socialdataproject-movies/about/) page.
