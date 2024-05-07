@@ -21,13 +21,10 @@ Email:          nicsh@dtu.dk
 Both group members worked on all tasks together and helped each other on all tasks to an overall equal amount of effort.
 
 Responsibility of Manos:
-- 1
-- 2
-- 3
+* Manos was mostly responsible for the display and data selection for some figures in order to build a narrative and persistence to the data being shown.
+
 
 Responsibility of Nico:
-- 1
-- 2
-- 3
+* Nico was mostly responsible for the most part of the code and specific visualization choices along with Introductory parts of the Article.
 
 Those contributions rather not indicate a higher workload of one or another person in a specific area, but states the person responsible for delegating tasks and getting things done.

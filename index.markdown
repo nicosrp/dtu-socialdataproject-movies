@@ -33,11 +33,11 @@ The Drama and Documentary genres continue to be the most popular on the silver s
 
 Besides looking only at genres, it might be interesting to see the geographical differences in the world of movies. In the following world map, we can see how some specific measures in the movie industry differ around the world.
 
-<iframe src="worldMap.html" width="100%" height="550" style="border:none;"></iframe>
+<iframe src="worldMapNew.html" width="100%" height="550" style="border:none;"></iframe>
 
 Considering the amount of total movies, a country has produced, we can see that the USA are clearly the biggest player, with more than four times the amount of total movies than France, the second place in this ranking. We have to take into account here, that The Movie Database TMBD is a company from Calgary, Alberta (Canada) that has easier access to western (not the genre) movies, and e.g. movies form the former Soviet Union, China or India can only be grasped to a lower extent. Nonetheless, the US american dominancy can not be refused in this setting. Furthermore, also have to take into account that the countries here are the production countries of a movie, so the movie itself can have its origins in one country, but also produce in another one.
 
-<iframe src="average_runtime_over_decades.html" width="100%" height="550" style="border:none;"></iframe>
+<iframe src="average_runtime_over_decadesNew.html" width="100%" height="550" style="border:none;"></iframe>
 
 The length of movies are changing over time, being well below 20 mins until the 1910s, then tends to increase overall until the 2000s, whereas the time tends to decrease again in the 2010s and 2020s. This might be particularly interesting to research about causes for this trend shift in a qualitative way. The rise of social media during the time of the latest trend shift might be a plausible cause that can be connected to the overall decrease of movie lengths. Through e.g. microstimulations in Instagram Reels or TikToks, we as humans might not be captivated anymore by long-lasting, never-ending plots, but want to be entertained in a short and concise manner. But not only the signs of our time can have an influence on the playtime, the cultural dimension is also a crucial part of that, as countries like e.g. India tends to generally have longer movie durations than e.g. recently Brazil, which tends to be on the lower end. So all in all we can see, that there many aspects of our society (generational, geographical, etc.) that might be mirrored in our movie data.
 
