@@ -7,8 +7,6 @@ layout: home
 
 <h1>Behind the Screens🎥: Decoding Patterns within the Movie Industry</h1>
 
-Authors: Manos Loukaidis and Nico Sherpa
-
 3, 2, 1... Action! Grab yourself some popcorn and enjoy the movie. The smell of cheese nachos, 2 liter coca cola cups, and 165 minutes pure entertainment. We all love movies, don't we? What do we really like, is it a specific genre, or the multi-million dollar CGI that has been used? With this project, we want to investigate, how we perceive movies given a set of underlying assumption, and subsequently want to learn something about ourselves as humans. When we perceive things in a specific way, and information about that is documented, we can learn not only a lot about the documented industry, but also about societal trends and how we reflect ourselves in the documented data. So let's dive right into it.
 
 <iframe src="genreNetworkGraph.html" width="100%" height="400px" style="border:none;"></iframe>
